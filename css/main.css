@@ -13,6 +13,10 @@ header{
     text-align: center;
 }
 
+*｛
+margin:0;
+padding:0;
+｝
 
 #emm{
     font-size: 50px;
